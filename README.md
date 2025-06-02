@@ -55,3 +55,5 @@ global.fetch = jest.fn(() =>
 ```
 5. create a folder called `__test__` and contain your unit tests in all test pages here. Rename the file with xxx.test.js
 ![alt text](/next-fundamental/public/Screenshot%202025-05-30%20at%2021.22.53.png)
+
+6. run the test by executing the following command in the terminal `npm run test`
