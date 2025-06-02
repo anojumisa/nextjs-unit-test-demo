@@ -50,7 +50,7 @@ global.fetch = jest.fn(() =>
 
 ```
 "scripts": {
-  "test": "jest"
+  "test": "jest --coverage"
 }
 ```
 5. create a folder called `__test__` and contain your unit tests in all test pages here. Rename the file with xxx.test.js
